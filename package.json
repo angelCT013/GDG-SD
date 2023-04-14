@@ -1,0 +1,11 @@
+{
+  "name": "gdg-sd",
+  "version": "1.0.0",
+  "description": "This repo serves as a companion to events that GDG San Diego puts together as well as a collaborative environment for GDG members to practice working with tools weve covered, build upon or use for your own projects. We encourage community contributions and hope this serves you in your full stack development journey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
